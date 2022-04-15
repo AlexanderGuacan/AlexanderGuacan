@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Alexander Guacan
 - 👀 I’m interested in backend programation
-- 🌱 I’m currently learning cpp and javascript
+- 🌱 I’m currently learning javascript
+- 💻 I have basic knowings in cpp programming language
 - 📫 How to reach me: can write me at the next email, alexander.guacan2003@gmail.com
 
 <!---
