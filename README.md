@@ -7,7 +7,7 @@ Software Engineer & Full Stack Developer
 I specialize in building robust, end-to-end web and mobile applications. I combine dynamic user interfaces built with React and Next.js with efficient backend architectures using Spring Boot, .NET Core, and PostgreSQL.
 
 * 🌍  I'm based in Ecuador
-* 🖥️  See my portfolio at [My Portfolio](http://https://alexanderguacan.github.io/portfolio/)
+* 🖥️  See my portfolio at [My Portfolio](https://alexanderguacan.github.io/portfolio/)
 * ✉️  You can contact me at [adguacan2003@gmail.com](mailto:adguacan2003@gmail.com)
 
 <p align="left">
