@@ -22,4 +22,8 @@ I specialize in building robust, end-to-end web and mobile applications. I combi
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/AlexanderGuacan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderGuacan&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/AlexanderGuacan"><img src="https://github-stats-extended.vercel.app/api?username=AlexanderGuacan&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&show_icons=true" alt="AlexanderGuacan's GitHub stats" /></a>
+
+<a href="http://www.github.com/AlexanderGuacan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderGuacan&stroke=ffffff&background=27272a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/AlexanderGuacan" align="left"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlexanderGuacan&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
